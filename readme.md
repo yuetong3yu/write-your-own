@@ -6,6 +6,10 @@ Built up some functions and prototype functions that already provide by JavaScri
 
 todo.
 
+## Utility
+
+todo.
+
 ## Array
 
 todo.
