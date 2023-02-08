@@ -6,9 +6,11 @@ Built up some functions and prototype functions that already provide by JavaScri
 
 todo.
 
-## Utility
+## Utility Functions
 
-todo.
+1. before
+
+- Do something before a function call.
 
 ## Array
 
