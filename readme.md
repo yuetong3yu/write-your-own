@@ -4,7 +4,9 @@ Built up some functions and prototype functions that already provide by JavaScri
 
 ## Promise
 
-todo.
+Follow Promise/A+, build a own Promise.
+
+[Promise](https://github.com/yuetong3yu/write-your-own/blob/master/promise/promise.js)
 
 ## Utility Functions
 
