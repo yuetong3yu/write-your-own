@@ -15,6 +15,7 @@ todo.
 ## Design Patterns
 
 1. [on-emit](https://github.com/yuetong3yu/write-your-own/blob/master/design-pattern/om-emit.js) - On-Emit is a design pattern which used a lot in JS industry.
+2. [Observer](https://github.com/yuetong3yu/write-your-own/blob/master/design-pattern/observer.js) - Observer-Subject Pattern is another usage design patter which base on publish-subscribe pattern.
 
 ## Array
 
