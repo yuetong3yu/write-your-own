@@ -13,7 +13,7 @@ Function.prototype.before = function (beforeFunc) {
   var _this = this
   return function () {
     beforeFunc()
-    _this.apply(_this, arguments)
+    _this.apply(void 0, arguments)
   }
 }
 
