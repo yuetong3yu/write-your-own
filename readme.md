@@ -6,7 +6,8 @@ Built up some functions and prototype functions that already provide by JavaScri
 
 Follow Promise/A+, build a own Promise.
 
-[Promise](https://github.com/yuetong3yu/write-your-own/blob/master/promise/promise.js)
+- [Promise](https://github.com/yuetong3yu/write-your-own/blob/master/promise/promise.js) - custom Promise follow the rule of promiseA++
+- [p-limit](https://github.com/yuetong3yu/write-your-own/blob/master/promise/p-limit.js) - custom p-limit utility which allows specific concurrency of fetch.
 
 ## Utility Functions
 
