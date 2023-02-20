@@ -1,6 +1,6 @@
-# Write Your Own
+# 👷 Write Your Own
 
-Built up some functions and prototype functions that already provide by JavaScript.
+⛏️ Built up some functions and prototype functions that already provide by JavaScript.
 
 ## Promise
 
